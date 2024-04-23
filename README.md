@@ -7,6 +7,7 @@ Deep Residual Learning for Image Recognition
 
 
 
+
 # Diffusion model
 
 Deep Unsupervised Learning using Nonequilibrium Thermodynamics
@@ -71,7 +72,7 @@ High resolution mapping of the breast cancer tumor microenvironment using integr
 
 
 
-# LLM and Generative models
+# LLM and multi-modal
 
 LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS
 
@@ -96,6 +97,7 @@ Momentum Contrast for Unsupervised Visual Representation Learning
 
 A Simple Framework for Contrastive Learning of Visual Representations
 
+GenCo: An Auxiliary Generator from Contrastive Learning for Enhanced Few-Shot Learning in Remote Sensing
 
 
 # Protein
